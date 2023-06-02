@@ -1,0 +1,52 @@
+{
+  "infor": [
+    {
+      "s_name": "Dev",
+      "l_name": "Ghule",
+      "s_address": "jalgoan",
+      "s_mob": "7020403011",
+      "s_deprt": "CE",
+      "id": 1
+    },
+    {
+      "s_name": "Lochan",
+      "l_name": "Charde",
+      "s_address": "Yavatmal",
+      "s_mob": "8412554121",
+      "s_deprt": "CE",
+      "id": 2
+    },
+    {
+      "s_name": "sunil",
+      "l_name": "Devre",
+      "s_address": "Dhule",
+      "s_mob": "8544123584",
+      "s_deprt": "CE",
+      "id": 3
+    },
+    {
+      "s_name": "Lopa",
+      "l_name": "panda",
+      "s_address": "Bhubneshwer",
+      "s_mob": "6522147890",
+      "s_deprt": "BSC",
+      "id": 4
+    },
+    {
+      "s_name": "Roshan",
+      "l_name": "Chaure",
+      "s_address": "NASHIK",
+      "s_mob": "9545982297",
+      "s_deprt": "CE",
+      "id": 6
+    },
+    {
+      "id": "7",
+      "s_name": "Manish",
+      "l_name": "Sisode",
+      "s_address": "pune",
+      "s_mob": "9841259640",
+      "s_deprt": "CE"
+    }
+  ]
+}
